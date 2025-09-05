@@ -1,0 +1,6 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Ignorar solo carpetas temporales o pyc
+__pycache__/
+*.pyc
+# No ignorar main.py ni foto.jpg
+
